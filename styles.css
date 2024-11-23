@@ -134,14 +134,12 @@ nav a {
   flex-wrap: wrap;
   display: flex;
   justify-content: center;
-  border: 2px solid rgb(0, 255, 55);
   background-color: #81654d;
   color: #fff;
   border-radius: 100px;
 }
 
 .localizacao img {
-  border: 2px solid rgb(132, 0, 255);
   width: 100%;
   max-width: 400px;
   border-radius: 5px;
@@ -149,7 +147,6 @@ nav a {
 }
 
 .endereco {
-  border: 2px solid red;
   width: 300px;
   height: auto;
   display: flex;
